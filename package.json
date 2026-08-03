@@ -20,7 +20,7 @@
     "@types/react-dom": "^18.3.5",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
-    "electron": "^33.2.1",
+    "electron": "^43.2.0",
     "electron-builder": "^25.1.8",
     "electron-vite": "^3.0.0",
     "postcss": "^8.4.49",
@@ -102,7 +102,7 @@
   },
   "allowScripts": {
     "better-sqlite3@11.10.0": true,
-    "electron@33.4.11": true,
-    "esbuild@0.25.12": true
+    "esbuild@0.25.12": true,
+    "electron@43.2.0": true
   }
 }
