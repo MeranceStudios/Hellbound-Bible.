@@ -44,12 +44,12 @@
     "@types/react": "^18.3.18",
     "@types/react-dom": "^18.3.5",
     "@types/uuid": "^10.0.0",
-    "@vitejs/plugin-react": "^4.3.4",
-    "electron": "^33.4.0",
-    "electron-builder": "^25.1.8",
-    "electron-vite": "^2.3.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "electron": "^43.2.0",
+    "electron-builder": "^26.15.7",
+    "electron-vite": "^5.0.0",
     "typescript": "^5.7.3",
-    "vite": "^5.4.11"
+    "vite": "^7.3.6"
   },
   "build": {
     "appId": "com.merancestudios.hellboundbible",
