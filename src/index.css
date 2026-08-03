@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&family=Yusei+Magic&display=swap');
+
+html,
+body,
+#root {
+  margin: 0;
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  background: #0c0c0f;
+  color: #f5f5f7;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Yusei Magic', 'Noto Sans JP', sans-serif;
+  margin: 0;
+}
+
+p {
+  margin: 0 0 6px;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
